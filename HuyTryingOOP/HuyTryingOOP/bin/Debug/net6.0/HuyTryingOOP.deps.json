@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HuyTryingOOP/1.0.0": {
+        "runtime": {
+          "HuyTryingOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HuyTryingOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
